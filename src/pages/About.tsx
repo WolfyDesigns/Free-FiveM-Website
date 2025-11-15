@@ -5,22 +5,18 @@ const About = () => {
     <div className="min-h-screen pt-32 pb-20 px-4">
       <div className="container mx-auto max-w-4xl">
         <h1 className="text-5xl md:text-6xl font-western text-center mb-8 text-primary">
-          About Dust Valley RP
+          About The Misfit Junkies
         </h1>
         
         <p className="text-xl text-center text-accent mb-16 font-body font-medium">
-          Welcome to the most authentic Wild West experience on FiveM
+          Welcome to The Misfit Junkies
         </p>
 
         <div className="space-y-8">
           <Card className="p-8 bg-card border-2 border-border hover:border-primary transition-all">
             <h2 className="text-3xl font-western mb-4 text-primary">Our Story</h2>
             <p className="font-body text-lg text-muted-foreground leading-relaxed">
-              Dust Valley RP was founded with a vision to recreate the authentic Wild West experience 
-              in FiveM. Our server brings together passionate roleplayers who share a love for the 
-              frontier era, complete with outlaws, lawmen, ranchers, and everything in between. 
-              We've built a community that values quality roleplay, historical accuracy, and most 
-              importantly, having fun together in the dusty plains of our virtual frontier.
+              The Misfit Junkies was founded with a vision to create a few Ark Survival Ascended servers. Well one day we said lets make it a Multigame Community and here we are today we have 3 Ark Survival Ascended Severs got Valheim up an running.
             </p>
           </Card>
 
@@ -57,7 +53,7 @@ const About = () => {
           <Card className="p-8 bg-card border-2 border-border hover:border-primary transition-all">
             <h2 className="text-3xl font-western mb-4 text-primary">Community Values</h2>
             <p className="font-body text-lg text-muted-foreground leading-relaxed mb-4">
-              At Dust Valley RP, we prioritize creating a welcoming and inclusive environment 
+              At The Misfit Junkies, we prioritize creating a welcoming and inclusive environment 
               where everyone can enjoy quality roleplay. We believe in:
             </p>
             <ul className="space-y-3 font-body text-lg text-muted-foreground">
