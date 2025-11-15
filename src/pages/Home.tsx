@@ -1,7 +1,7 @@
 import { Button } from "@/components/ui/button";
 import ServerStats from "@/components/ServerStats";
-import heroBackground from "@/assets/hero-background.png";
-import logo from "@/assets/dust-valley-logo.png";
+import heroBackground from "@/assets/MisfitBG.png";
+import logo from "@/assets/Misfit1.png";
 
 const Home = () => {
   return (
