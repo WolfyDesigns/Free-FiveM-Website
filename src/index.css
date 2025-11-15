@@ -39,10 +39,10 @@ All colors MUST be HSL.
     --radius: 0.375rem;
     
     --western-orange: 285, 100%, 60%;
-    --western-red: 8 75% 50%;
-    --western-brown: 25 35% 25%;
-    --western-sand: 38 55% 70%;
-    --western-dark: 25 35% 8%;
+    --western-red: 285, 100%, 60%;
+    --western-brown: 285, 100%, 60%;
+    --western-sand: 285, 100%, 60%;
+    --western-dark: 285, 100%, 60%;
 
     --sidebar-background: 0 0% 98%;
 
