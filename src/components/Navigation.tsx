@@ -2,7 +2,7 @@ import { useState } from "react";
 import { Link, useLocation } from "react-router-dom";
 import { Menu, X } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import logo from "@/assets/dust-valley-logo-actual.png";
+import logo from "@/assets/Misfit2.png";
 
 const Navigation = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -12,7 +12,7 @@ const Navigation = () => {
     { name: "Home", path: "/" },
     { name: "About", path: "/about" },
     { name: "Rules", path: "/rules" },
-    { name: "Apply", path: "/apply" },
+    /*{ name: "Apply", path: "/apply" },*/
     { name: "Store", path: "/store" },
   ];
 
@@ -25,7 +25,7 @@ const Navigation = () => {
           <Link to="/" className="flex items-center">
             <img 
               src={logo} 
-              alt="Dust Valley RP" 
+              alt="The Misfit Junkies" 
               className="h-16 w-auto"
             />
           </Link>

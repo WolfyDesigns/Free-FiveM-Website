@@ -26,7 +26,7 @@ const Footer = () => {
           </div>
           
           <div className="flex items-center gap-2 text-sm text-muted-foreground font-body">
-            <span>Horizon Studios</span>
+            <span>The Misfit Junkies</span>
           </div>
         </div>
       </div>
