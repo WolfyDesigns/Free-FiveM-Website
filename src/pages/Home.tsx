@@ -25,11 +25,11 @@ const Home = () => {
           />
           
           <h1 className="text-5xl md:text-7xl font-western mb-6 text-shadow-western animate-fade-in">
-            Welcome to Dust Valley RP
+            Welcome to The Misfit Junkies
           </h1>
           
           <p className="text-xl md:text-2xl font-body font-medium mb-12 text-accent animate-fade-in">
-            The Wild West Roleplay Experience
+            Join our thriving community across multiple survival games. Team up, survive, dominate.
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center animate-fade-in">
@@ -60,28 +60,28 @@ const Home = () => {
       <section className="py-20 px-4">
         <div className="container mx-auto max-w-6xl">
           <h2 className="text-4xl md:text-5xl font-western text-center mb-16 text-primary">
-            Experience the Wild West
+            Experience The Misfit Junkies
           </h2>
           
           <div className="grid md:grid-cols-3 gap-8">
             <div className="bg-card p-8 rounded-lg border-2 border-border hover:border-primary transition-all hover:scale-105">
-              <h3 className="text-2xl font-western mb-4 text-primary">Authentic Roleplay</h3>
+              <h3 className="text-2xl font-western mb-4 text-primary">Streamers</h3>
               <p className="font-body text-muted-foreground leading-relaxed">
-                Immerse yourself in a realistic Wild West environment with detailed roleplay mechanics and an active community.
+                We do have a few streamers in the community so if you want to know more about us you can ask them!
               </p>
             </div>
             
             <div className="bg-card p-8 rounded-lg border-2 border-border hover:border-primary transition-all hover:scale-105">
-              <h3 className="text-2xl font-western mb-4 text-primary">Custom Features</h3>
+              <h3 className="text-2xl font-western mb-4 text-primary">Games</h3>
               <p className="font-body text-muted-foreground leading-relaxed">
-                Enjoy unique scripts, custom jobs, and immersive activities designed specifically for the Western theme.
+                We have servers like Ark Survival Ascended, Conan Exiles, Valheim. We also play other games like Call of Duty and Battlefield 6!
               </p>
             </div>
             
             <div className="bg-card p-8 rounded-lg border-2 border-border hover:border-primary transition-all hover:scale-105">
               <h3 className="text-2xl font-western mb-4 text-primary">Active Community</h3>
               <p className="font-body text-muted-foreground leading-relaxed">
-                Join a welcoming community of players and staff dedicated to creating memorable roleplay experiences.
+                Join a welcoming community of players and staff dedicated to creating memorable experiences.
               </p>
             </div>
           </div>
