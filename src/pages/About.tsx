@@ -16,7 +16,7 @@ const About = () => {
           <Card className="p-8 bg-card border-2 border-border hover:border-primary transition-all">
             <h2 className="text-3xl font-western mb-4 text-primary">Our Story</h2>
             <p className="font-body text-lg text-muted-foreground leading-relaxed">
-              The Misfit Junkies was founded with a vision to create a few Ark Survival Ascended servers. Well one day we said lets make it a Multigame Community and here we are today we have 3 Ark Survival Ascended Severs got Valheim up an running.
+              The Misfit Junkies was founded with a vision to create a few Ark Survival Ascended servers. Well one day we said lets make it a Multigame Community and here we are today we have 3 Ark Survival Ascended Severs got Valheim up and running.
             </p>
           </Card>
 
