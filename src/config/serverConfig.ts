@@ -11,7 +11,7 @@ export const serverConfig = {
 
   // FiveM/RedM Server Configuration
   gameServer: {
-    enabled: true, // Set to false to disable game server stats
+    enabled: false, // Set to false to disable game server stats
     type: "fivem", // Options: "fivem" or "redm"
     cfxCode: "placeholder", // Your server's CFX join code (e.g., "abc123")
     // Alternative: Use IP:Port instead
